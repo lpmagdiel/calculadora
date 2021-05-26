@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'zcool';
+    src: url('../fonts/ZCOOLKuaiLe-Regular.ttf');
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'zcool';
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.calc{
+    width: 300px;
+    height: 600px;
+    border: 1px solid gray;
+    margin-top: 40px;
+}
